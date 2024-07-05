@@ -1,6 +1,17 @@
 {
-	"pack": {
-		"description": "§9§lMadCat's §a§lOne Player Sleep - V4.3",
-		"pack_format": 18
-		}
+  "pack": {
+    "pack_format": 48,
+    "description": [
+      {
+        "text": "MadCat's ",
+        "color": "blue",
+        "bold": true
+      },
+      {
+        "text": "One Player Sleep - V4.3",
+        "color": "green",
+        "bold": true
+      }
+    ]
+  }
 }
