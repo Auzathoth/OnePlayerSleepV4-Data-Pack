@@ -43,6 +43,14 @@ Some of the features include:
 - Updated pack version and image
 - Modified the release folder in GitHub to better reflect compatibility with Minecraft versions
 
+## Version 4.4 Changelog
+
+- File locations changes
+
+## Version 4.5 Changelog
+
+- Updates for MC 1.21.5+
+
 ## More resources
 
 A download list of [Minecraft 1.16 Data Packs][dplist] where this is included
