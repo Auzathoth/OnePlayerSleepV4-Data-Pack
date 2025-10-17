@@ -48,7 +48,12 @@ Some of the features include:
 - Updated for Minecraft 1.21 - 1.21.4
 - functions are now stored in function
 
-## More resources
+## Version 4.5 Changelog
+
+- Update for Minecraft 1.21.5 - 1.21.10
+- clickEvent -> click_event
+- hoverEvent -> hover_event
+- value is some elements is now specifically command or url## More resources
 
 A download list of [Minecraft 1.16 Data Packs][dplist] where this is included
 To see this in action you can visit [my website][mcweb].
