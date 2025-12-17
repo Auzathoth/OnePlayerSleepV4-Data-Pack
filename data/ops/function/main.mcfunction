@@ -1,9 +1,9 @@
 ##########################################
 # Author: MadCat (youtube.com/MadCatHoG) 
 # Date: May 11, 2020
-# Last update: Oct, 17, 2023
-# Version: 4.3
-# Minecraft Version 1.20 ++
+# Last update: Dec, 17, 2025
+# Version: 4.6
+# Minecraft Version 1.21.11 ++
 # Description:
 # One Player Sleep Function loop
 ##########################################
@@ -11,7 +11,7 @@
 scoreboard players add #sleep_message ops.status 1
 scoreboard players add #kick_message ops.status 1
 
-execute store result score #wc_status ops.status run gamerule doWeatherCycle
+execute store result score #wc_status ops.status run gamerule advance_weather
 
 execute as @a[predicate=ops:start_sleep] run scoreboard players enable @a ops.wakeup 
 execute as @a[predicate=ops:start_sleep] run function ops:message
