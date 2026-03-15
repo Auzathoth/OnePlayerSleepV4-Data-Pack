@@ -1,9 +1,11 @@
 ##########################################
 # Author: MadCat (youtube.com/MadCatHoG) 
 # Date: May 11, 2020
-# Last update: Oct, 17, 2025
-# Version: 4.5
-# Minecraft Version 1.21.5++
+# Last update: Oct, 17, 2023
+# Updates: Auzathoth (youtube.com/Auzathoth)
+# Last update: Mar 15, 2026
+# Version: 4.6
+# Minecraft Version 1.21.11+
 # Description:
 # Shows a random message when a Player
 # goes to sleep

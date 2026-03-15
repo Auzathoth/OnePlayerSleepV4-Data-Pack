@@ -1,9 +1,11 @@
 ##########################################
 # Author: MadCat (youtube.com/MadCatHoG) 
 # Date: May 11, 2020
-# Last update: Dec, 17, 2025
+# Last update: Oct, 17, 2023
+# Updates: Auzathoth (youtube.com/Auzathoth)
+# Last update: Mar 15, 2026
 # Version: 4.6
-# Minecraft Version 1.21.11 ++
+# Minecraft Version 1.21.11+
 # Description:
 # One Player Sleep Function loop
 ##########################################
