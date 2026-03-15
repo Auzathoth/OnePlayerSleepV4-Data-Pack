@@ -55,6 +55,10 @@ Some of the features include:
 - hoverEvent -> hover_event
 - value is some elements is now specifically command or url
 
+## Version 4.6 Changelog
+
+- Updates for MC 1.21.11+
+
 ## More resources
 
 A download list of [Minecraft 1.16 Data Packs][dplist] where this is included
