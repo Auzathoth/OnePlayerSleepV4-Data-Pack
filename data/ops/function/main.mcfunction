@@ -19,7 +19,7 @@ execute as @a[predicate=ops:start_sleep] run scoreboard players enable @a ops.wa
 execute as @a[predicate=ops:start_sleep] run function ops:message
 
 # Change the line below to pass the night faster by adding more time after "add"
-execute as @a[predicate=ops:sleeping] run time add 40
+execute as @a[predicate=ops:sleeping] run time of minecraft:overworld add 40
 
 execute as @a[predicate=ops:sleeping] if score #wc_status ops.status matches 1 run execute if predicate ops:end_night if predicate ops:weather run weather thunder 1
 execute as @a[scores={ops.wakeup=1}] at @s run function ops:wakeup
