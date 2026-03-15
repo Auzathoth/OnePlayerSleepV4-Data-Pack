@@ -51,6 +51,10 @@ Some of the features include:
 
 - Updates for MC 1.21.5+
 
+## Version 4.6 Changelog
+
+- Updates for MC 1.21.11+
+
 ## More resources
 
 A download list of [Minecraft 1.16 Data Packs][dplist] where this is included
