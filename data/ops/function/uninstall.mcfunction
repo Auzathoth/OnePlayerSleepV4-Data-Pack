@@ -2,14 +2,16 @@
 # Author: MadCat (youtube.com/MadCatHoG) 
 # Date: May 11, 2020
 # Last update: Oct, 17, 2023
-# Version: 4.3
-# Minecraft Version 1.20 ++
+# Updates: Auzathoth (youtube.com/Auzathoth)
+# Last update: Mar 15, 2026
+# Version: 4.6
+# Minecraft Version 1.21.11+
 # Description:
 # Disables One Player Sleep data pack and
 # clears all scoreboards
 ##########################################
 
-datapack disable "file/OnePlayerSleepV45.zip" 
+datapack disable "file/OnePlayerSleepV46.zip" 
 scoreboard objectives remove ops.wakeup
 scoreboard objectives remove ops.status
 
