@@ -1,7 +1,7 @@
 {
   "pack": {
-    "min_format": [101,1],
-    "max_format": [101.2],
+    "min_format": [102,0],
+    "max_format": [102.0],
     "description": [
       {
         "text": "MadCat's ",
@@ -9,7 +9,7 @@
         "bold": true
       },
       {
-        "text": "One Player Sleep - V4.7",
+        "text": "One Player Sleep - V4.8",
         "color": "green",
         "bold": true
       }
