@@ -39,9 +39,14 @@ Some of the features include:
 
 ## Version 4.3 Changelog
 
-- Updated for Minecraft 1.20 onwards (a real test of time!). Thanks to Auzathoth for a very helpful fix for this version
+- Updated for Minecraft 1.20 (a real test of time!). Thanks to Auzathoth for a very helpful fix for this version
 - Updated pack version and image
 - Modified the release folder in GitHub to better reflect compatibility with Minecraft versions
+
+## Version 4.4 Changelog
+
+- Updated for Minecraft 1.21 - 1.21.4
+- functions are now stored in function
 
 ## More resources
 
