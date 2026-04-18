@@ -60,6 +60,10 @@ Some of the features include:
 - Update for MC 1.21.11
 - doWeatherCycle is now advance_weather
 
+## Version 4.6 Changelog
+
+- Updates for MC 1.21.11+
+
 ## More resources
 
 A download list of [Minecraft 1.16 Data Packs][dplist] where this is included
