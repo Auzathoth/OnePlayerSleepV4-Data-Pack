@@ -60,9 +60,10 @@ Some of the features include:
 - Update for MC 1.21.11
 - doWeatherCycle is now advance_weather
 
-## Version 4.6 Changelog
+## Version 4.7 Changelog
 
-- Updates for MC 1.21.11+
+- Update for MC 26.1
+- time features need to specify which dimension 
 
 ## More resources
 
