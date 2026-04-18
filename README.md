@@ -57,7 +57,8 @@ Some of the features include:
 
 ## Version 4.6 Changelog
 
-- Updates for MC 1.21.11+
+- Update for MC 1.21.11
+- doWeatherCycle is now advance_weather
 
 ## More resources
 
