@@ -11,7 +11,7 @@
 # clears all scoreboards
 ##########################################
 
-datapack disable "file/OnePlayerSleepV46.zip" 
+datapack disable "file/OnePlayerSleepV48.zip" 
 scoreboard objectives remove ops.wakeup
 scoreboard objectives remove ops.status
 

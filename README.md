@@ -62,8 +62,13 @@ Some of the features include:
 
 ## Version 4.7 Changelog
 
-- Update for MC 26.1
+- Update for MC 26.1 - 26.1.2
 - time features need to specify which dimension 
+
+## Version 4.8 Changelog
+
+- Update for MC 26.2
+- "type" in predicates is now "minecraft:entity_type"
 
 ## More resources
 
