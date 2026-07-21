@@ -70,6 +70,11 @@ Some of the features include:
 - Update for MC 26.2
 - "type" in predicates is now "minecraft:entity_type"
 
+## Version 4.9 Changelog
+
+- Update for MC 26.2
+- "condition" in predicates is now "type"
+
 ## More resources
 
 A download list of [Minecraft 1.16 Data Packs][dplist] where this is included
